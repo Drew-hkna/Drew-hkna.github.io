@@ -13,7 +13,7 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 nav ul li_2, fotter ul li{
-    display:"list-style-type:circle;";
+    display: circle;
     margin-right:20px:
 }
 a {
