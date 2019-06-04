@@ -12,6 +12,10 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+nav ul li_2, fotter ul li{
+    display:"list-style-type:circle;";
+    margin-right:20px:
+}
 a {
     text-decoration: none;
     color: #999;
